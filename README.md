@@ -16,8 +16,9 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-##Description
-The Task Management Website with CRUD Operations project is a full-stack web application that allows users to manage their tasks effectively. Built using #Next.js for the frontend, #MongoDB as the database, #Node.js for the backend, and styled with #Tailwind CSS, this project showcases a seamless integration of cutting-edge technologies.
+## Description
+
+The Task Management Website with CRUD Operations project is a full-stack web application that allows users to manage their tasks effectively. Built using # Next.js for the frontend, # MongoDB as the database, # Node.js for the backend, and styled with # Tailwind CSS, this project showcases a seamless integration of cutting-edge technologies.
 
 CRUD Operations:
 
