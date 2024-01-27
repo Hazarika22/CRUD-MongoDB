@@ -23,6 +23,10 @@ The Task Management Website with CRUD Operations project is a full-stack web app
 CRUD Operations:
 
 Create (C): Users can easily add new tasks to the list, specifying details such as the task name, description, and due date.
+
 Read (R): The application displays the list of tasks, allowing users to view and prioritize their to-dos.
+
 Update (U): Users can edit task details, including the task name, description, and due date, to keep their lists up to date.
+
 Delete (D): Unwanted tasks can be removed from the list with a simple delete operation.
+
